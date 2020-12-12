@@ -9,3 +9,5 @@ The teamProfileGenerator is a command line application that takes in information
 <img width="1878" alt="Screen Shot 2020-12-12 at 5 28 48 PM" src="https://user-images.githubusercontent.com/67757549/101999143-bdfeef80-3c9f-11eb-9942-cb4224c8ee08.png">
 
 ### Video
+
+[Demo.mov.zip](https://github.com/pheno-cat/teamProfileGenerator/files/5683943/Demo.mov.zip)
